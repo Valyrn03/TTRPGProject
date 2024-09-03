@@ -1,0 +1,3 @@
+Kidnap people to help add all pdfs
+
+Make a python script to allow people to update the database on their own (add instructions on how to get python and update it?)

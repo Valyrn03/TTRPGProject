@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@sqlite.org/sqlite-wasm": "^3.46.1-build2",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
